@@ -5,7 +5,8 @@
 
  <img  width="400" src="/assets/harch-linux.png"  />
   
-* [Download Link]([https://github.com/harchlinux/harch-gnome-pro/releases](https://github.com/harchlinux/harch-plasma/tags))
+* [Download Link](https://github.com/harchlinux/harch-plasma/tags)
+
 <br/>
 <br/>
 <br/>
