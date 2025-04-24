@@ -5,7 +5,7 @@
 
  <img  width="400" src="/assets/harch-linux.png"  />
   
-* [Download Link](https://github.com/harchlinux/harch-plasma/tags)
+* Harch Plasma ISO [Download Link](https://github.com/harchlinux/harch-plasma/tags)
 
 <br/>
 <br/>
