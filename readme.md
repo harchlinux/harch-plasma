@@ -40,4 +40,22 @@ Plasma is part of the larger KDE ecosystem, which includes many applications and
 
 
 
+## **Method 2: Manual Installation(just plasma desktop environment)**  
+If you prefer manual installation, use these commands:  
 
+### **1. Update System**  
+```bash
+sudo pacman -Syu
+```  
+### **2. Install KDE Plasma & Essential Packages**  
+```bash
+sudo pacman -S harch-plasma-desktop
+```  
+### **3. Enable SDDM (Display Manager)**  
+```bash
+sudo systemctl enable sddm
+```  
+### **4. Reboot**  
+```bash
+reboot
+```  
