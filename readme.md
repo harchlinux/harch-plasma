@@ -59,3 +59,29 @@ sudo systemctl enable sddm
 ```bash
 reboot
 ```  
+
+
+
+To run **Harch Linux with the KDE Plasma desktop environment** smoothly, your system should meet at least the following specifications:  
+
+## **🔹 Minimum Requirements**  
+| **Component**       | **Minimum Specs** |  
+|-------------------|------------------|  
+| **CPU** | **Intel/AMD x64 (Dual-core minimum)** |  
+| **RAM** | **2GB** (4GB recommended for better performance) |  
+| **Storage** | **20GB** (for base installation + additional apps) |  
+| **GPU** | **Any GPU supporting OpenGL 2.0+** (Intel HD Graphics or better) |  
+| **Display Resolution** | **1024×768** (higher recommended) |  
+
+---
+
+## **🔹 Recommended Requirements**  
+| **Component**       | **Recommended Specs** |  
+|-------------------|----------------------|  
+| **CPU** | **Intel Core i3 / AMD Ryzen 3 or better** |  
+| **RAM** | **4GB or more** |  
+| **Storage** | **30GB+** (for additional software) |  
+| **GPU** | **Intel UHD / AMD Radeon / NVIDIA with open-source drivers** |  
+| **Display Resolution** | **1920×1080 (Full HD) or higher** |  
+
+---
