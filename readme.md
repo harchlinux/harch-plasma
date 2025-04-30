@@ -5,7 +5,7 @@
 
  <img  width="400" src="/assets/harch-linux.png"  />
   
-* Zenora Plasma ISO [Download Link](https://github.com/sorenalinux/zenora-plasma/tags)
+* Sorena Plasma ISO [Download Link](https://github.com/sorenalinux/zenora-plasma/tags)
 
 <br/>
 <br/>
