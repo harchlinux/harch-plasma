@@ -1,11 +1,11 @@
 
 <!-- About Section -->
- # About Harch Linux Plasma
+ # About Zenora Linux Plasma
  
 
  <img  width="400" src="/assets/harch-linux.png"  />
   
-* Harch Plasma ISO [Download Link](https://github.com/harchlinux/harch-plasma/tags)
+* Zenora Plasma ISO [Download Link](https://github.com/harchlinux/harch-plasma/tags)
 
 <br/>
 <br/>
@@ -62,7 +62,7 @@ reboot
 
 
 
-To run **Harch Linux with the KDE Plasma desktop environment** smoothly, your system should meet at least the following specifications:  
+To run **Zenora Linux with the KDE Plasma desktop environment** smoothly, your system should meet at least the following specifications:  
 
 ## **🔹 Minimum Requirements**  
 | **Component**       | **Minimum Specs** |  
