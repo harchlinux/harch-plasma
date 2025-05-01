@@ -1,11 +1,11 @@
 
 <!-- About Section -->
- # About Sorena Linux Plasma
+ # About zenora Linux Plasma
  
 
  <img  width="400" src="/assets/harch-linux.png"  />
   
-* Sorena Plasma ISO [Download Link](https://github.com/sorenalinux/zenora-plasma/tags)
+* Sorena Plasma ISO [Download Link](https://github.com/zenoralinux/zenora-plasma/tags)
 
 <br/>
 <br/>
